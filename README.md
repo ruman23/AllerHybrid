@@ -9,12 +9,12 @@ git clone https://github.com/ruman23/AllerHybrid.git
 
 ### Download the Repository
 
-For downloading the repository, please check the following link.
+For downloading the repository, please check out the following link.
 
 https://github.com/ruman23/AllerHybrid/archive/refs/heads/main.zip
 
 ### Details
 
-For details please download the following slide 
+For details please download the following presentation slide
 
 https://github.com/ruman23/AllerHybrid/blob/main/Presentation.pptx
