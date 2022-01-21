@@ -1,4 +1,4 @@
-## AllerHybrid: A hybrid system to predict the allergenusing k-mer and physicochemical properties
+## AAllerHybrid: A Hybrid System to Predict the Allergen Using K-mer and Physicochemical Properties
 
 ### Clone the Repository
 
